@@ -1,0 +1,6 @@
+{
+  "mainClass": "com.myththewolf.evalPlugin.Main",
+  "name": "Java Evaluator",
+  "pluginDescription": "A plugin to evaluate java via command",
+  "pluginVersion": "1.0.0"
+}
